@@ -1,30 +1,31 @@
-# This is a large heading
+# Sarah Dowling
 
-## This is a smaller heading
+##  Where:
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen, 
-Turns them to shapes and gives to airy nothing, 
-A local *habitation* and a **name**. 
+Living in sunny Auckland, New Zealand, but originally from (not so sunny) Dublin, Ireland.
 
 
-- This is 
-- an unordered 
-- list 
+###  Movies
 
-1. This is 
-2. an ordered 
-3. list 
+Some of my favourite movies are:
 
-Here is `some code` in the middle of a sentence. 
+- *Pulp Fiction*
+- *The Killing Fields*
+- *Once Upon a Time in the West*
 
-``` 
-This is 
-a block 
-of code 
-``` 
 
-Here is how you make [a link](https://www.wikipedia.org/). 
+###  Music
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2
-  /karl-moustache.jpg)
+Some of my favourite artists/bands are:
+
+1.  U2
+2.  Neil Young
+3.  Acoustic Alchemy
+4.  Miles Davis
+5.  Pink Floyd
+
+
+###  Contact
+
+Accounts on the usual social suspects, but not giving details here.  
+Still have a copper line so the 101 year old Aunt can keep in touch.
