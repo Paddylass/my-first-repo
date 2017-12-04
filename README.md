@@ -29,9 +29,3 @@ Some of my favourite artists/bands are:
 
 Accounts on the usual social suspects, but not giving details here.  
 Still have a copper line so the 101 year old Aunt can keep in touch.
-
-'''
-
-date +"%d-%m-%y"
-
-'''
