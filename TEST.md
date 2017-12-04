@@ -7,6 +7,7 @@
 ##Number of lines of code in guessinggame.sh
 
 '''
+
 wc -l guessinggame.sh
 
 '''
